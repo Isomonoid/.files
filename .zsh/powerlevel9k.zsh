@@ -28,8 +28,6 @@ POWERLEVEL9K_GO_VERSION_FOREGROUND='081'
 
 POWERLEVEL9K_HOME_ICON="\ufb26"
 
-POWERLEVEL9K_INSTALLATION_PATH=/usr/share/zsh-theme-powerlevel9k/powerlevel9k.zsh-theme
-
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(root_indicator dir dir_writable_joined custom_git_pair vcs_joined)
 POWERLEVEL9K_LEFT_SUBSEGMENT_SEPARATOR='%F{008}\uf460%F{008}'
 
