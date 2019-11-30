@@ -1,6 +1,12 @@
-dotfiles=~/.files/.zsh
+dotfiles=~/.files/zsh
+
 # Import colorscheme from 'wal' asynchronously
 (cat ~/.cache/wal/sequences &);clear
+
+# Use terminal emacsclient everywhere
+export ALTERNATE_EDITOR=""
+export EDITOR="emacsclient -t"
+export VISUAL="emacsclient -t"
 
 # Antigen bundles
 source $dotfiles/antigen.zsh
@@ -16,10 +22,5 @@ source $dotfiles/autojump.zsh
 
 # Alias definition + fontawesome ls
 source $dotfiles/alias.zsh
-
-# Use terminal emacsclient everywhere
-export ALTERNATE_EDITOR=""
-export EDITOR="emacsclient -t"
-export VISUAL="emacsclient -t"
 
 clear
