@@ -10,6 +10,10 @@ export VISUAL="emacsclient -t"
 
 # Antigen bundles
 source $dotfiles/antigen.zsh
+antigen use oh-my-zsh
+antigen bundle sudo
+antigen bundle git
+antigen bundle zsh-users/zsh-autosuggestions
 antigen bundle zsh-users/zsh-syntax-highlighting
 antigen apply
 
