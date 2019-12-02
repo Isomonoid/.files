@@ -1,0 +1,40 @@
+[DownloadDialog Settings]
+Height 1080=550
+Width 1920=800
+
+[KFileDialog Settings]
+Recent Files[$e]=Kreis.png,file:$HOME/画像/icons/Kreis.png
+Recent URLs[$e]=file:$HOME/画像/icons/
+detailViewIconSize=0
+
+[KPropertiesDialog]
+Height 1080=462
+Width 1920=483
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_idea.desktop,1 services_org.kde.ktorrent.desktop
+pluginWhiteList=services,desktopsessions,PowerDevil,calculator,unitconverter,shell,bookmarks,baloosearch,locations
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=LVDS-0
+11=HDMI-0
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=false
+currentLayout=Dock And TopBar
+downloadWindowSize=800,550
+lastNonAssignedLayout=Dock And TopBar
+launchers=
+layoutsColumnWidths=121,268,23,0
+layoutsWindowSize=958,631
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+unifiedGlobalShortcuts=true
+version=2

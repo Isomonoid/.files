@@ -1,0 +1,14 @@
+[General]
+SplitterSizes=355,351
+
+[KFileDialog Settings]
+Recent Files[$e]=aegisub.svg,file:$HOME/.local/share/icons/aegisub.svg
+Recent URLs[$e]=file:$HOME/.local/share/icons/,file:$HOME/Scripts/
+detailViewIconSize=0
+
+[MainWindow]
+Height 1080=480
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAtAAAAG2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=720

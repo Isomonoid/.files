@@ -1,0 +1,33 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1022022f1e2214000156855630400000009340009
+clientId2=1022022f1e2214000157443193500000009920004
+clientId3=1022022f1e2214000157514799100000227690024
+clientId4=1022022f1e2214000157520523000000009980010
+count=4
+discardCommand3[$e]=rm,$HOME/.config/session/kwin_1022022f1e2214000157514799100000227690024_1575207248_706806
+program1=/usr/bin/msm_kde_notifier
+program2=/usr/bin/latte-dock
+program3=/usr/bin/kwin_x11
+program4=pulseaudio
+restartCommand1=/usr/bin/msm_kde_notifier,-session,1022022f1e2214000156855630400000009340009_1575207248_601273
+restartCommand2=/usr/bin/latte-dock,-session,1022022f1e2214000157443193500000009920004_1575207248_602028
+restartCommand3=/usr/bin/kwin_x11,-session,1022022f1e2214000157514799100000227690024_1575207248_706806
+restartCommand4=
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=magnus
+userId2=magnus
+userId3=magnus
+userId4=magnus
+wasWm1=false
+wasWm2=false
+wasWm3=true
+wasWm4=false

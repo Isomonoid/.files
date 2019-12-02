@@ -1,0 +1,83 @@
+[1]
+Description=jetbrains-idea-ce のアプリケーション設定
+clientmachine=localhost
+clientmachinematch=0
+opacityactive=70
+opacityactiverule=2
+wmclass=jetbrains-idea-ce
+wmclasscomplete=false
+wmclassmatch=1
+
+[2]
+Description=minecraft 1.14.4 のアプリケーション設定
+clientmachine=localhost
+clientmachinematch=0
+desktopfile=java
+desktopfilerule=2
+wmclass=minecraft 1.14.4
+wmclasscomplete=false
+wmclassmatch=1
+
+[3]
+Description=caprine のアプリケーション設定
+clientmachine=localhost
+clientmachinematch=0
+opacityactive=85
+opacityactiverule=2
+position=40,58
+positionrule=3
+size=1851,933
+sizerule=3
+wmclass=caprine
+wmclasscomplete=false
+wmclassmatch=1
+
+[4]
+Description=\sのアプリケーション設定
+clientmachine=localhost
+clientmachinematch=0
+desktopfile=LeagueClientUx.
+desktopfilerule=2
+wmclass=
+wmclasscomplete=false
+wmclassmatch=1
+
+[5]
+Description=discord のアプリケーション設定
+clientmachine=localhost
+clientmachinematch=0
+opacityactive=75
+opacityactiverule=2
+wmclass=discord
+wmclasscomplete=false
+wmclassmatch=1
+
+[6]
+Description=systemsettings のアプリケーション設定
+clientmachine=localhost
+clientmachinematch=0
+opacityactive=85
+opacityactiverule=2
+position=64,47
+positionrule=3
+wmclass=systemsettings5 systemsettings
+wmclasscomplete=true
+wmclassmatch=1
+
+[7]
+Description=chromium のウィンドウ設定
+below=true
+belowrule=3
+clientmachine=localhost
+clientmachinematch=0
+title=Debussy: Piano Trio - Bertrand Chamayou, Renaud Capuçon, Edgar Moreau - YouTube - Chromium
+titlematch=0
+types=1
+windowrole=browser
+windowrolematch=1
+wmclass=chromium
+wmclasscomplete=false
+wmclassmatch=1
+
+[General]
+count=7

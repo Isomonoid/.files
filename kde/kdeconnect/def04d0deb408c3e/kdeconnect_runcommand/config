@@ -1,0 +1,2 @@
+[General]
+commands="@ByteArray({\"_3c954447_f715_4862_9e30_58d44d529688_\":{\"command\":\"xset -display :0.0 dpms force on \",\"name\":\"Turn screen on\"},\"_893e3102_a1d7_48af_9614_add91c83becb_\":{\"command\":\"xset -display :0.0 dpms force off\",\"name\":\"Turn screen off\"},\"_c2f320e5_ccea_4232_b0a8_87d390b9538f_\":{\"command\":\"xdotool windowkill $(xdotool getactivewindow)\",\"name\":\"Kill focused\"}})"
