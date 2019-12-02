@@ -339,7 +339,6 @@ you should place your code here."
 
 (global-prettify-symbols-mode 1)
 (defun pretty-lambda ()
-  "make some word or string show as pretty Unicode symbols"
   (setq prettify-symbols-alist
         '(
           ("\\" . 955) ; λ
