@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/magnus/Wallpapers/Artwork/2560x1600.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A1E2B",
+        "foreground": "#c7bac3",
+        "cursor": "#c7bac3"
+    },
+    "colors": {
+        "color0": "#0A1E2B",
+        "color1": "#5C5B6F",
+        "color2": "#9B506D",
+        "color3": "#C34266",
+        "color4": "#4E708D",
+        "color5": "#BF6790",
+        "color6": "#528899",
+        "color7": "#c7bac3",
+        "color8": "#8b8288",
+        "color9": "#5C5B6F",
+        "color10": "#9B506D",
+        "color11": "#C34266",
+        "color12": "#4E708D",
+        "color13": "#BF6790",
+        "color14": "#528899",
+        "color15": "#c7bac3"
+    }
+}

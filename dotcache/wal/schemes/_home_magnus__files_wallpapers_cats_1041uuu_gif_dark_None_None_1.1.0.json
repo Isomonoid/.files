@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/magnus/.files/wallpapers/cats_1041uuu.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#06121F",
+        "foreground": "#d1d6da",
+        "cursor": "#d1d6da"
+    },
+    "colors": {
+        "color0": "#06121F",
+        "color1": "#53646B",
+        "color2": "#AD5B49",
+        "color3": "#5B788A",
+        "color4": "#3F87B2",
+        "color5": "#758A94",
+        "color6": "#97A4B3",
+        "color7": "#d1d6da",
+        "color8": "#929598",
+        "color9": "#53646B",
+        "color10": "#AD5B49",
+        "color11": "#5B788A",
+        "color12": "#3F87B2",
+        "color13": "#758A94",
+        "color14": "#97A4B3",
+        "color15": "#d1d6da"
+    }
+}

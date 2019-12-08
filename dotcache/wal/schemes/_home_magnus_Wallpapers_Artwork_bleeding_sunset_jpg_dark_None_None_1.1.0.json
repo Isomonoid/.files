@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/magnus/Wallpapers/Artwork/bleeding_sunset.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#15120f",
+        "foreground": "#f4e3b2",
+        "cursor": "#f4e3b2"
+    },
+    "colors": {
+        "color0": "#15120f",
+        "color1": "#927566",
+        "color2": "#CD6E54",
+        "color3": "#E86B4B",
+        "color4": "#7B897A",
+        "color5": "#8A8776",
+        "color6": "#F7A06C",
+        "color7": "#f4e3b2",
+        "color8": "#aa9e7c",
+        "color9": "#927566",
+        "color10": "#CD6E54",
+        "color11": "#E86B4B",
+        "color12": "#7B897A",
+        "color13": "#8A8776",
+        "color14": "#F7A06C",
+        "color15": "#f4e3b2"
+    }
+}

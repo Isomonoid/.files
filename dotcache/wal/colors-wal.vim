@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/magnus/Wallpapers/Artwork/planetary_excursion.jpg"
+let background = "#0A1E2B"
+let foreground = "#c7bac3"
+let cursor     = "#c7bac3"
+
+" Colors
+let color0  = "#0A1E2B"
+let color1  = "#5C5B6F"
+let color2  = "#9B506D"
+let color3  = "#C34266"
+let color4  = "#4E708D"
+let color5  = "#BF6790"
+let color6  = "#528899"
+let color7  = "#c7bac3"
+let color8  = "#8b8288"
+let color9  = "#5C5B6F"
+let color10 = "#9B506D"
+let color11 = "#C34266"
+let color12 = "#4E708D"
+let color13 = "#BF6790"
+let color14 = "#528899"
+let color15 = "#c7bac3"

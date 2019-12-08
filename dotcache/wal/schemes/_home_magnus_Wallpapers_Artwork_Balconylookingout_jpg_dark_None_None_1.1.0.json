@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/magnus/Wallpapers/Artwork/Balconylookingout.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0d16",
+        "foreground": "#b8b8b6",
+        "cursor": "#b8b8b6"
+    },
+    "colors": {
+        "color0": "#0b0d16",
+        "color1": "#315562",
+        "color2": "#345761",
+        "color3": "#4B4C56",
+        "color4": "#565F65",
+        "color5": "#6D7070",
+        "color6": "#8D7168",
+        "color7": "#b8b8b6",
+        "color8": "#80807f",
+        "color9": "#315562",
+        "color10": "#345761",
+        "color11": "#4B4C56",
+        "color12": "#565F65",
+        "color13": "#6D7070",
+        "color14": "#8D7168",
+        "color15": "#b8b8b6"
+    }
+}

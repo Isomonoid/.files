@@ -1,0 +1,21 @@
+set $wallpaper /home/magnus/Wallpapers/Artwork/planetary_excursion.jpg
+
+set $background #0A1E2B
+set $foreground #c7bac3
+
+set $color0 #0A1E2B
+set $color1 #5C5B6F
+set $color2 #9B506D
+set $color3 #C34266
+set $color4 #4E708D
+set $color5 #BF6790
+set $color6 #528899
+set $color7 #c7bac3
+set $color8 #8b8288
+set $color9 #5C5B6F
+set $color10 #9B506D
+set $color11 #C34266
+set $color12 #4E708D
+set $color13 #BF6790
+set $color14 #528899
+set $color15 #c7bac3
