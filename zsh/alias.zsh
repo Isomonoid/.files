@@ -12,8 +12,8 @@ alias yogurt=yaourt
 # Misc
 alias open=xdg-open
 alias reload="source ~/.zshrc"
-alias ls="~/.zsh/els --els-icons=fontawesome"
-alias la="~/.zsh/els --els-icons=fontawesome -a"
+alias ls="~/.files/zsh/els --els-icons=fontawesome"
+alias la="~/.files/zsh/els --els-icons=fontawesome -a"
 alias ll="/usr/bin/ls -lh --color=tty"
 
 # Functions
