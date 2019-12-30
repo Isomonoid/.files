@@ -17,11 +17,11 @@ antigen bundle zsh-users/zsh-autosuggestions
 antigen bundle zsh-users/zsh-syntax-highlighting
 antigen apply
 
-# Prompt config 
+# Prompt config
 source $dotfiles/zsh-theme-powerlevel9k/powerlevel9k.zsh-theme
 source $dotfiles/powerlevel9k.zsh
 # dirty fix...for some reason needs to be reloaded for icons to render properly
-source $dotfiles/zsh-theme-powerlevel9k/powerlevel9k.zsh-theme 
+source $dotfiles/zsh-theme-powerlevel9k/powerlevel9k.zsh-theme
 
 # Autojump
 source $dotfiles/autojump.zsh
@@ -30,9 +30,5 @@ source $dotfiles/autojump.zsh
 source $dotfiles/alias.zsh
 
 clear
-
-# Prompt config (should come last)
-# source $dotfiles/zsh-theme-powerlevel9k/powerlevel9k.zsh-theme
-# source $dotfiles/powerlevel9k.zsh
 
 
